@@ -2,5 +2,9 @@
   {
     "package": "parquetize",
     "oncran": true
+  },
+  {
+    "package": "tablexlsx",
+    "oncran": true
   }
 ]

@@ -8,3 +8,8 @@
 	url = https://github.com/ddotta/parquetize
 	shallow = true
 	registered = true
+[submodule "tablexlsx"]
+	path = tablexlsx
+	url = https://github.com/ddotta/tablexlsx
+	shallow = true
+	registered = true
