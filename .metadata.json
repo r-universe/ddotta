@@ -1,10 +1,10 @@
 [
   {
-    "package": "tablexlsx",
+    "package": "parquetize",
     "oncran": true
   },
   {
-    "package": "parquetize",
+    "package": "tablexlsx",
     "oncran": true
   }
 ]
