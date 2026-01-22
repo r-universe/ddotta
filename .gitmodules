@@ -5,6 +5,9 @@
 [submodule "parquetize"]
 	path = parquetize
 	url = https://github.com/ddotta/parquetize
+[submodule "quartify"]
+	path = quartify
+	url = https://github.com/ddotta/quartify
 [submodule "tablexlsx"]
 	path = tablexlsx
 	url = https://github.com/ddotta/tablexlsx
